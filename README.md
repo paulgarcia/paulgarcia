@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3DDCB2&width=560&lines=Hey%20%F0%9F%91%8B%20I%27m%20Pa%C3%BAl%20Garc%C3%ADa;AI%20Engineer%20%C2%B7%20Agents%20%26%20Automation;MCP%20%C2%B7%20Tool%20calling%20%C2%B7%20LLM%20agents" alt="Hey, I'm Paúl García. AI Engineer, Agents and Automation." /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3DDCB2&width=560&lines=Hey%2C%20I%E2%80%99m%20Pa%C3%BAl%20Garc%C3%ADa;AI%20Engineer%20%C2%B7%20Agents%20%26%20Automation;MCP%20%C2%B7%20Tool%20calling%20%C2%B7%20LLM%20%C2%B7%20RAG" alt="Hey, I’m Paúl García. AI Engineer, Agents and Automation." /></a>
 
 **AI Engineer · Agents & Automation** · Ecuador (UTC-5).
 
